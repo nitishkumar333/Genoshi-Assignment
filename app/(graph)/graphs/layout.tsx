@@ -1,4 +1,4 @@
-import { Details } from "@/components/graph/graph-details";
+import Details  from "@/components/graph/graph-details";
 import React from "react";
 
 export default function GraphLayout({
