@@ -8,7 +8,7 @@ export default function Form() {
     <form>
       <div className="space-y-12">
         <div className="border-b border-white-900/10 pb-12">
-          <h2 className="text-5xl text-base font-semibold leading-7 text-zinc-50">
+          <h2 className="text-6xl text-base font-semibold leading-7 text-zinc-50">
             Build your own graph
           </h2>
 
